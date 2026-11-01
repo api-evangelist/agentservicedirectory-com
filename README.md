@@ -1,4 +1,4 @@
-# agentservicedirectory-com
+# Agent Service Directory
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agentservicedirectory-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agentservicedirectory.com/
+Agent Service Directory is a public directory of APIs, MCP servers and marketplaces for AI agents. It aggregates listings of services, provides searchable metrics, and shows pricing and availability information for each API. The platform aims to help developers discover and integrate agent‑focused services with transparent data on performance, compliance, and cost.
+
+**Areas:** AI · Agents · Directory · Marketplace · API · Metrics
+
+## Agent Service Directory on APIs.io
+
+Everything profiled for Agent Service Directory is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentservicedirectory-com/](https://apis.io/providers/agentservicedirectory-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Agent Service Directory API](https://apis.io/apis/agentservicedirectory-com/agent-service-directory-api/) — A directory of APIs, MCP servers and marketplaces for AI agents, with metrics we measure and the prices they state.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agentservicedirectory Com Context](https://apis.io/jsonld/agentservicedirectory-com/agentservicedirectory-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Agentservicedirectory Com Openapi Overlay](https://apis.io/overlays/agentservicedirectory-com/agentservicedirectory-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Agent Service Directory API Rules](https://apis.io/rules/agentservicedirectory-com/agentservicedirectory-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentservicedirectory Com Authentication](https://apis.io/security/agentservicedirectory-com/agentservicedirectory-com-authentication/)
+- [Agentservicedirectory Com Domain Security](https://apis.io/security/agentservicedirectory-com/agentservicedirectory-com-domain-security/)
+- [Agentservicedirectory Com Vulnerability Disclosure](https://apis.io/security/agentservicedirectory-com/agentservicedirectory-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Agentservicedirectory Com Scopes](https://apis.io/scopes/agentservicedirectory-com/agentservicedirectory-com-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentservicedirectory.com/)
+- [Documentation](https://agentservicedirectory.com/tree)
+- [Getting started](https://agentservicedirectory.com/connect)
+- [API reference](https://agentservicedirectory.com/openapi.json)
+- [Sign up](https://agentservicedirectory.com/connect)
+- [Security](https://agentservicedirectory.com/methodology#contact)
+- [Status](https://agentservicedirectory.com/status)
+
+## API Evangelist rating
+
+**Kin Score 41.9** — developing · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 34.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 47.4 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 13.2 |
+
+**Agent readiness 20.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentservicedirectory-com/](https://apis.io/providers/agentservicedirectory-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Agent Service Directory: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentservicedirectory-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
