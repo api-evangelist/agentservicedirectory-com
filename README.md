@@ -66,7 +66,7 @@
 
 Agent Service Directory is a public directory of APIs, MCP servers and marketplaces for AI agents. It aggregates listings of services, provides searchable metrics, and shows pricing and availability information for each API. The platform aims to help developers discover and integrate agent‑focused services with transparent data on performance, compliance, and cost.
 
-**Areas:** AI · Agents · Directory · Marketplace · API · Metrics
+**Areas:** Artificial Intelligence · Agents · Directory · Marketplace · Metrics
 
 ## Agent Service Directory on APIs.io
 
@@ -80,6 +80,12 @@ Everything profiled for Agent Service Directory is published on APIs.io rather t
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentservicedirectory-com-mcp.yml](https://apis.io/servers/agentservicedirectory-com/agentservicedirectory-com-mcp-yml/)
+
 #### JSON-LD (1)
 
 Linked-data contexts for the provider's vocabulary.
@@ -90,7 +96,7 @@ Linked-data contexts for the provider's vocabulary.
 
 OpenAPI overlays, including conversational phrasing for each operation.
 
-- [Agentservicedirectory Com Openapi Overlay](https://apis.io/overlays/agentservicedirectory-com/agentservicedirectory-com-openapi-overlay/)
+- [Agent Service Directory Openapi Overlay](https://apis.io/overlays/agentservicedirectory-com/agentservicedirectory-com-openapi-overlay/)
 
 #### Governance rules (1)
 
@@ -102,15 +108,15 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentservicedirectory Com Authentication](https://apis.io/security/agentservicedirectory-com/agentservicedirectory-com-authentication/)
-- [Agentservicedirectory Com Domain Security](https://apis.io/security/agentservicedirectory-com/agentservicedirectory-com-domain-security/)
-- [Agentservicedirectory Com Vulnerability Disclosure](https://apis.io/security/agentservicedirectory-com/agentservicedirectory-com-vulnerability-disclosure/)
+- [Agent Service Directory Authentication](https://apis.io/security/agentservicedirectory-com/agentservicedirectory-com-authentication/)
+- [Agent Service Directory Domain Security](https://apis.io/security/agentservicedirectory-com/agentservicedirectory-com-domain-security/)
+- [Agent Service Directory Vulnerability Disclosure](https://apis.io/security/agentservicedirectory-com/agentservicedirectory-com-vulnerability-disclosure/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agentservicedirectory Com Scopes](https://apis.io/scopes/agentservicedirectory-com/agentservicedirectory-com-scopes/)
+- [Agent Service Directory Scopes](https://apis.io/scopes/agentservicedirectory-com/agentservicedirectory-com-scopes/)
 
 ## Where to find this API
 
@@ -126,18 +132,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 41.9** — developing · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 38.3** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 81.7 |
 | Contract quality | 34.7 |
-| Contract governance | 79.1 |
-| Operational transparency | 47.4 |
+| Contract governance | 22.0 |
+| Operational transparency | 47.6 |
 | Developer ergonomics | 35.0 |
-| Access clarity | 13.2 |
+| Access clarity | 10.6 |
 
-**Agent readiness 20.0** — agent-aware
+**Agent readiness 19.9** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -163,6 +169,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
 
